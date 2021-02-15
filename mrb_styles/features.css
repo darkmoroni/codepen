@@ -1,0 +1,10 @@
+.contenido{
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.contenedor_de_navegaacion {
+position: absolute;
+}
